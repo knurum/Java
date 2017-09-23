@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\workSpaceEclipse\screenshots\test1_09_23_2017_03_27_31.png'><img src='C:\workSpaceEclipse\screenshots\test1_09_23_2017_03_27_31.png' height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25620" started-at="2017-09-23T19:27:07Z" finished-at="2017-09-23T19:27:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25620" started-at="2017-09-23T19:27:07Z" finished-at="2017-09-23T19:27:32Z">
+      <class name="tests.SmokeTest">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.SmokeTest@6fc6f14e]" name="afterTest" is-config="true" duration-ms="9" started-at="2017-09-23T15:27:07Z" finished-at="2017-09-23T15:27:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeAllTest()[pri:0, instance:tests.SmokeTest@6fc6f14e]" name="beforeAllTest" is-config="true" duration-ms="4428" started-at="2017-09-23T15:27:07Z" finished-at="2017-09-23T15:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.SmokeTest@6fc6f14e]" name="test1" duration-ms="19986" started-at="2017-09-23T15:27:11Z" finished-at="2017-09-23T15:27:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\workSpaceEclipse\screenshots\test1_09_23_2017_03_27_31.png'><img src='C:\workSpaceEclipse\screenshots\test1_09_23_2017_03_27_31.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterAllTest()[pri:0, instance:tests.SmokeTest@6fc6f14e]" name="afterAllTest" is-config="true" duration-ms="1165" started-at="2017-09-23T15:27:31Z" finished-at="2017-09-23T15:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTest -->
+      </class> <!-- tests.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

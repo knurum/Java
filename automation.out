@@ -1,0 +1,45 @@
+2017-09-23 14:37:46 INFO  BasePage:28 - ***New Test Started***
+2017-09-23 14:37:51 INFO  Library:91 - All Test Started with browser Firefox
+2017-09-23 14:38:15 INFO  BasePage:32 - closing browser
+2017-09-23 14:38:17 INFO  BasePage:34 - ***All Test Finished***
+2017-09-23 14:42:55 INFO  Library:91 - All Test Started with browser Firefox
+2017-09-23 14:42:55 INFO  SmokeTest:15 - ***New Test Started***test1
+2017-09-23 14:43:23 INFO  BasePage:32 - closing browser
+2017-09-23 14:43:24 INFO  BasePage:34 - ***All Test Finished***
+2017-09-23 14:47:42 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 14:47:43 INFO  SmokeTest:15 - ***New Test Started***test1
+2017-09-23 14:48:04 INFO  BasePage:30 - closing browser
+2017-09-23 14:48:05 INFO  BasePage:32 - ***All Test Finished***
+2017-09-23 15:06:23 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 15:06:23 INFO  SmokeTest:15 - ***New Test Started***test1
+2017-09-23 15:06:41 INFO  BasePage:30 - closing browser
+2017-09-23 15:06:42 INFO  BasePage:32 - ***All Test Finished***
+2017-09-23 15:08:54 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 15:08:55 INFO  SmokeTest:15 - ***New Test Started***test1
+2017-09-23 15:09:13 INFO  BasePage:30 - closing browser
+2017-09-23 15:09:14 INFO  BasePage:32 - ***All Test Finished***
+2017-09-23 15:16:44 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 15:16:44 INFO  SmokeTest:15 - ***New Test Started***test1
+2017-09-23 15:17:06 INFO  BasePage:30 - closing browser
+2017-09-23 15:17:07 INFO  BasePage:32 - ***All Test Finished***
+2017-09-23 15:17:40 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 15:17:40 INFO  SmokeTest:15 - ***New Test Started***test1
+2017-09-23 15:17:55 INFO  BasePage:30 - closing browser
+2017-09-23 15:17:56 INFO  BasePage:32 - ***All Test Finished***
+2017-09-23 15:21:12 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 15:21:12 INFO  SmokeTest:18 - ***New Test Started***test1
+2017-09-23 15:21:29 INFO  BasePage:30 - closing browser
+2017-09-23 15:21:30 INFO  BasePage:32 - ***All Test Finished***
+2017-09-23 15:22:18 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 15:22:18 INFO  SmokeTest:18 - ***New Test Started***test1
+2017-09-23 15:22:37 INFO  BasePage:30 - closing browser
+2017-09-23 15:22:38 INFO  BasePage:32 - ***All Test Finished***
+2017-09-23 15:24:24 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 15:24:24 INFO  SmokeTest:18 - ***New Test Started***test1
+2017-09-23 15:24:45 INFO  BasePage:30 - closing browser
+2017-09-23 15:24:46 INFO  BasePage:32 - ***All Test Finished***
+2017-09-23 15:27:11 INFO  Library:92 - All Test Started with browser Chrome
+2017-09-23 15:27:11 INFO  SmokeTest:18 - ***New Test Started***test1
+2017-09-23 15:27:31 INFO  ScreenshotRule:20 - taking ss
+2017-09-23 15:27:31 INFO  BasePage:30 - closing browser
+2017-09-23 15:27:32 INFO  BasePage:32 - ***All Test Finished***
